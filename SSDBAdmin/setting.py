@@ -3,11 +3,11 @@
 db_config = [
     {
         "host": "localhost",
-        "port": 8889
+        "port": 22228
     },
     {
         "host": "localhost",
-        "port": 8888
+        "port": 23781
     }
 ]
 
